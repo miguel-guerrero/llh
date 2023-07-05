@@ -1,2 +1,3 @@
-# llh
-Low Level Hardware description and simulation
+llh - low level hardware description language
+
+

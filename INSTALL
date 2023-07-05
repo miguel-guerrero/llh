@@ -1,0 +1,2 @@
+# https://github.com/westerndigitalcorporation/pyvcd MIT license
+python3 -m pip install pyvcd
