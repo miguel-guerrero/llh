@@ -12,7 +12,7 @@ Code generation produces synthesizable Verilog HDL that can be simulated and man
 
     $ python3 -m pip install pyvcd
 
-  Icarus Verilog is expected to be installed if using native verilog simulations.
+  [Icarus Verilog](https://en.wikipedia.org/wiki/Icarus_Verilog) is expected to be installed if using native verilog simulations.
 
 ## Quick start
 
